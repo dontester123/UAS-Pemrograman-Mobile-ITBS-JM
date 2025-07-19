@@ -1,4 +1,4 @@
-# 📱 Project UAS Ramadhan - Aplikasi Menu Makanan
+# 📱 Project UAS Ramadhan - Aplikasi Pemesanan Kopi
 
 Aplikasi Android sederhana yang dikembangkan menggunakan **Kotlin** untuk menampilkan daftar makanan populer, kategori makanan, dan banner promosi. Aplikasi ini dibuat sebagai bagian dari tugas akhir UAS.
 
