@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">project uas ramadhan</string>
+    <string name="kopi_depan_rumah">Kopi Depan Rumah</string>
+    <string name="mulai">Mulai</string>
+    <string name="cari_apa_saja">Cari Apa Saja....</string>
+    <string name="popular_coffe">Popular Coffe</string>
+    <string name="explorer">Explorer</string>
+    <string name="cart">Cart</string>
+    <string name="whislist">whislist</string>
+    <string name="my_order">My Order</string>
+    <string name="profile">Profile</string>
+</resources>
